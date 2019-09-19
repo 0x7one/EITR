@@ -3,9 +3,7 @@ Introduction and Purpose
 
 Installation
 1. Create an Ubuntu 18.04 or 19.04 host
-2. Place install.sh in the /home/$USER folder
-3. chmod +x install.sh
-4. Run with ./install.sh (do not run as root or sudo)
+2. curl https://raw.githubusercontent.com/0xValkyrie/EITR/master/install.sh | sh
 
 Notes
 - Only tested on Ubuntu 18.04 and Ubuntu 19.04 (server and desktop)
